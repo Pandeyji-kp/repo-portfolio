@@ -1,5 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
+import image1 from "../assets/image1.jpeg";
+import image2 from "../assets/image2.jpeg";
 
 
 const posts = [
@@ -10,7 +12,7 @@ const posts = [
     tags: ["React", "Frontend"],
     link: "/blog/getting-started-with-react",
     image:
-      "public/image2.jpeg",
+      image2,
   },
   {
     title: "How I Build Scalable Backend APIs",
@@ -19,7 +21,7 @@ const posts = [
     tags: ["Backend", "Node.js"],
     link: "/blog/scalable-backend-apis",
     image:
-      "/blog/image1.jpeg",
+      image1,
   },
 ];
 
