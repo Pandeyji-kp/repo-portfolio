@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { motion } from "framer-motion";
 
+
 const posts = [
   {
     title: "Getting Started with React",
@@ -18,7 +19,7 @@ const posts = [
     tags: ["Backend", "Node.js"],
     link: "/blog/scalable-backend-apis",
     image:
-      "public/image1.jpeg",
+      "/assets/image1.jpeg",
   },
 ];
 
