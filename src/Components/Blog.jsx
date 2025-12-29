@@ -19,7 +19,7 @@ const posts = [
     tags: ["Backend", "Node.js"],
     link: "/blog/scalable-backend-apis",
     image:
-      "/assets/image1.jpeg",
+      "/blog/image1.jpeg",
   },
 ];
 
