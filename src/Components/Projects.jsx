@@ -34,7 +34,7 @@ const projects = [
     title: "E-Commerce Website",
     desc: "Full-featured React & Firebase e-commerce app with authentication and real-time database.",
     link: "https://ecommerce-web-k7qc.vercel.app",
-    image: "/public/image3.png",
+    image: image3,
   },
   {
     title: "Quiz Application",
