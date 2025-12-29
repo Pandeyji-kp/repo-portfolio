@@ -1,29 +1,34 @@
 import { motion } from "framer-motion";
+import image3 from "../assets/image3.png";
+import image4 from "../assets/image4.png";
+import image5 from "../assets/image5.jpeg";
+import image6 from "../assets/poster1.jpg";
+import image7 from "../assets/sabjiking.webp";
 
 const projects = [
   {
     title: "SabjiKing – Online Vegetable Store",
     desc: "Production-ready e-commerce platform for ordering fresh vegetables with clean UI and fast performance.",
     link: "https://sabjiking.in/vegetables",
-    image: "public/sabjiking.webp",
+    image: image7,
   },
   {
     title: "Rewrite AI – Writing Keyboard (iOS)",
     desc: "AI-powered iOS writing keyboard app designed to rewrite and improve text in real time.",
     link: "https://apps.apple.com/in/app/rewrite-ai-writing-keyboard/id6737822095",
-    image: "public/image5.jpeg",
+    image: image5,
   },
   {
     title: "IdeaTown Investments",
     desc: "Corporate investment website built with modern UI, responsiveness, and performance optimization.",
     link: "https://www.ideatowninvestments.com/",
-    image: "public/image4.png",
+    image: image4,
   },
   {
     title: "GTA San Andreas Cheat Codes Portal",
     desc: "High-traffic SEO-focused website providing categorized cheat codes for PC, PlayStation, Android & Xbox.",
     link: "https://www.gtasanandreascheatcodes.com/gta-san-andreas-cheats-for-pc-playstation-android-microsoft-console",
-    image: "public/poster1.jpg",
+    image: image6,
   },
   {
     title: "E-Commerce Website",
