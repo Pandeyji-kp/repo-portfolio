@@ -11,13 +11,13 @@ const projects = [
     title: "Rewrite AI – Writing Keyboard (iOS)",
     desc: "AI-powered iOS writing keyboard app designed to rewrite and improve text in real time.",
     link: "https://apps.apple.com/in/app/rewrite-ai-writing-keyboard/id6737822095",
-    image: "public/WhatsApp Image 2025-12-25 at 10.50.13 AM.jpeg",
+    image: "public/image5.jpeg",
   },
   {
     title: "IdeaTown Investments",
     desc: "Corporate investment website built with modern UI, responsiveness, and performance optimization.",
     link: "https://www.ideatowninvestments.com/",
-    image: "public/Screenshot 2025-12-25 105402.png",
+    image: "public/image4.png",
   },
   {
     title: "GTA San Andreas Cheat Codes Portal",
@@ -29,7 +29,7 @@ const projects = [
     title: "E-Commerce Website",
     desc: "Full-featured React & Firebase e-commerce app with authentication and real-time database.",
     link: "https://ecommerce-web-k7qc.vercel.app",
-    image: "public/Screenshot 2025-12-25 110115.png",
+    image: "/public/image3.png",
   },
   {
     title: "Quiz Application",

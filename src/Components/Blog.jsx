@@ -9,7 +9,7 @@ const posts = [
     tags: ["React", "Frontend"],
     link: "/blog/getting-started-with-react",
     image:
-      "public/WhatsApp Image 2025-12-25 at 11.17.39 AM.jpeg",
+      "public/image2.jpeg",
   },
   {
     title: "How I Build Scalable Backend APIs",
@@ -18,7 +18,7 @@ const posts = [
     tags: ["Backend", "Node.js"],
     link: "/blog/scalable-backend-apis",
     image:
-      "public/WhatsApp Image 2025-12-25 at 11.17.59 AM.jpeg",
+      "public/image1.jpeg",
   },
 ];
 
